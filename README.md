@@ -1,16 +1,55 @@
-## Hi there 👋
+# CHARM ROBOTICS
 
-<!--
-**supermegarichboy-stack/supermegarichboy-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Universal Humanoid Intelligence & Physics
 
-Here are some ideas to get you started:
+Building next-generation real-time humanoid simulation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I research and develop physics-based robotics, humanoid locomotion, whole-body control, and AI-driven simulation environments.
+
+---
+
+## Research & Development
+
+### 01. Humanoid Robotics
+- MuJoCo-based humanoid simulation
+- Physics-based locomotion
+- Balance and posture control
+- Push recovery and fall management
+
+### 02. VRM Universal Humanoid
+- Three.js and VRM integration
+- Full-body inverse kinematics
+- Active ragdoll simulation
+- Real-time humanoid motion control
+
+### 03. mjswan Research
+- MuJoCo web simulation
+- Robot model integration
+- Policy-driven locomotion research
+
+### 04. AI & Robotics
+- Whole-body control
+- Motion planning
+- Physics-based AI
+- Simulation and validation pipelines
+
+### 05. Spatial Computing
+- Real-time 3D space distortion
+- Signed Distance Field (SDF)
+- Non-Euclidean geometry research
+
+---
+
+## Technology Stack
+
+`JavaScript` `TypeScript` `Three.js` `MuJoCo` `Rapier` `VRM` `Python` `WebGL`
+
+---
+
+## Organization
+
+**CHARM ROBOTICS**
+
+Website: https://chamrobotics.com
+
+Independent Robotics Research & Development.

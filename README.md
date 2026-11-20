@@ -1,4 +1,4 @@
-# CHARM ROBOTICS
+# CHAM ROBOTICS
 
 ### Universal Humanoid Intelligence · Physics · Spatial Computing
 
